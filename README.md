@@ -1,7 +1,3 @@
-<p>
-  <img src="https://drive.google.com/file/d/1g-Gvebur9alT_SdwAl_lg6RdNkJjfDOI/view?usp=sharing"/>
-</p>
-
 ### Hi, I'm Mo 👋
 
 I'm a full stack developer based in Los Angeles. 👩🏻‍💻
