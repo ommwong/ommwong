@@ -6,7 +6,5 @@ I'm a full stack developer based in Los Angeles. 👩🏻‍💻
 
 - 💃🏻  Another fun thing I've been working on is [Pissed At Congress](https://github.com/ommwong/pissed-at-congress)
 
-- 🌱  I particularly love working with React, Typescript, SQL, PWAs, and cool, fun, and colorful UIs 😎
-
 - 👀  Stalk me on [LinkedIn](https://www.linkedin.com/in/mowong1/)
 
